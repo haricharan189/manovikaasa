@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { CalendarDays, Clock, Video } from "lucide-react";
 
-const GOOGLE_FORM_URL = "https://forms.gle/LrGzn8WD9c2XRWxD7"; // Updated with actual Google Form URL
+const GOOGLE_FORM_URL = "https://forms.gle/1u4zNsJ4T44zxKfV7"; // Updated with actual Google Form URL
 
 const Book = () => {
   return (
@@ -45,9 +45,9 @@ const Book = () => {
             <Card className="border-primary/10 hover:shadow-lg transition-shadow">
               <CardContent className="p-6 text-center">
                 <Video className="h-8 w-8 text-primary mx-auto mb-4" />
-                <h3 className="font-semibold mb-2 text-slate-700">Online Options</h3>
+                <h3 className="font-semibold mb-2 text-slate-700">Online Only</h3>
                 <p className="text-sm text-slate-600">
-                  Virtual sessions available
+                  Only virtual sessions available
                 </p>
               </CardContent>
             </Card>
