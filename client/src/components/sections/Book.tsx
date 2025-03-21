@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { CalendarDays, Clock, Video } from "lucide-react";
 
-const GOOGLE_FORM_URL = "https://forms.gle/example"; // Replace with actual Google Form URL
+const GOOGLE_FORM_URL = "https://forms.gle/1u4zNsJ4T44zxKfV7"; // Replace with actual Google Form URL
 
 const Book = () => {
   return (
